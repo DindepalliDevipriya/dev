@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Amaran",
+        "description": "A group of kids uncover supernatural mysteries in their small town.",
+        "releaseDate": "2016-07-15",
+        "image": "/amaran.jpg",
+        "rating": "TV-14",
+        "cast": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+        "watchNowUrl": "https://www.netflix.com/title/80057281"
+    },
+    {
+        "id": 2,
+        "title": "Dragon",
+        "description": "A monster hunter struggles to find his place in a world where people are often more wicked than beasts.",
+        "releaseDate": "2019-12-20",
+        "image": "/dragon-movie.jpg",
+        "rating": "TV-MA",
+        "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+        "watchNowUrl": "https://www.netflix.com/title/80189685"
+    },
+    {
+        "id": 3,
+        "title": "The Conjuring",
+        "description": "A criminal mastermind plans the biggest heist in recorded history.",
+        "releaseDate": "2017-05-02",
+        "image": "/the conjuring.jpg",
+        "rating": "TV-MA",
+        "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
+        "watchNowUrl": "https://www.netflix.com/title/80192098"
+    },
+    {
+        "id": 4,
+        "title": "Demonte Colony-2",
+        "description": "A drama about the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+        "releaseDate": "2016-11-04",
+        "image": "/Demonte.jpg",
+        "rating": "TV-MA",
+        "cast": ["Claire Foy", "Olivia Colman", "Matt Smith"],
+        "watchNowUrl": "https://www.netflix.com/title/80025678"
+    },
+    {
+        "id": 5,
+        "title": "HIT-3",
+        "description": "A financial planner is forced to relocate his family and launder money for a drug cartel.",
+        "releaseDate": "2017-07-21",
+        "image": "/HIT 3.jpg",
+        "rating": "TV-MA",
+        "cast": ["Jason Bateman", "Laura Linney", "Julia Garner"],
+        "watchNowUrl": "https://www.netflix.com/title/80117552"
+    }
+]

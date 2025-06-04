@@ -1,0 +1,104 @@
+/* Styling for the stars */
+.stars {
+  font-size: 1.2rem;
+  color: #ffd700; /* Gold color for stars */
+  margin: 8px 0;
+}
+
+/* Styling for superhit ratings */
+.superhit {
+  color: #4caf50; /* Green for superhit ratings */
+  font-weight: bold;
+}
+
+/* Styling for average ratings */
+.average {
+  color: #f44336; /* Red for average ratings */
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #d7ac0f;
+  padding: 20px;
+  color: white;
+}
+
+.movie-container {
+  padding: 20px;
+}
+
+.movie-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.movie-item {
+  background-color: #444;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  width: 250px;
+  text-align: left;
+}
+
+.movie-item img {
+  border-radius: 5px;
+}
+
+button {
+  background-color: #e50914;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #f40612;
+}
+/* Add this to your App.css */
+
+.netflix-movies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.netflix-movie-card {
+  background: #0a174e;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+  padding: 24px 18px;
+  width: 340px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.netflix-movie-card img {
+  width: 260px;
+  height: 340px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 18px;
+}
+
+.small-card {
+  width: 200px !important;
+  padding: 12px !important;
+}
+
+.small-card img {
+  width: 140px !important;
+  height: 180px !important;
+}
